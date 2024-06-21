@@ -1,0 +1,36 @@
+.bx1{
+    background-color: firebrick;
+}
+
+.bx2{
+    background-color: black;
+    color: white;
+}
+
+.bx3{
+    background-color: brown;
+    height: 20vh;
+}
+
+.bx4{
+    float: left;
+}
+
+.bx5{
+    float: left; 
+}
+
+#bx6{
+    float: right;
+}
+
+.bx8{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+#bx9{
+    float:right;
+    margin-top: 5vh;
+    margin-left: 15px;
+}
